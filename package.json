@@ -8,8 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "postinstall": "cp -R ./node_modules/pspdfkit/dist/pspdfkit-lib public/pspdfkit-lib"
-}
-
+    
   },
   "dependencies": {
     "next": "14.2.8",
