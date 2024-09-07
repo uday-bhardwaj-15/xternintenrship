@@ -7,8 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "scripts": {
-  "postinstall": "cp -R ./node_modules/pspdfkit/dist/pspdfkit-lib public/pspdfkit-lib"
+    "postinstall": "cp -R ./node_modules/pspdfkit/dist/pspdfkit-lib public/pspdfkit-lib"
 }
 
   },
